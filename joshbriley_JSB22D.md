@@ -10,6 +10,7 @@
 - **Markdown on GitHub:** GitHub’s flavor of Markdown is a simple way to add structure, style, and even fun elements like images or emojis to repositories and discussions.
 - **Starring and Following:** Features like starring repositories and following users can help keep track of interesting projects and developers in the community.
 - **Pull Requests and Reviews:** I learned how pull requests facilitate collaboration by allowing others to review changes before they are merged into the main branch.
+- **Vim:** I learned more about how to use vim and some of the features it has. (Not exactly related to git and github, but assiocated). 
 
 ### Things I Am Still Confused About
 - **Resolving Merge Conflicts:** While I understand the concept, I’m unsure how to resolve conflicts effectively when merging branches.
